@@ -1,0 +1,12 @@
+:root{
+    /* CSS HEX */
+--preto: #01161eff;
+--verde-meia-noite: #124559ff;
+--azul-da-força-aérea: #598392ff;
+--cinza-acinzentado: #aec3b0ff;
+--bege: #eff6e0ff;
+}
+
+body{
+    background-color: var(--cinza-acinzentado);
+}
